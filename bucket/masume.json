@@ -1,0 +1,22 @@
+{
+    "version": "0.0.10",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/masumedb/masume/releases/download/v0.0.10/masume_0.0.10_windows_amd64.zip",
+            "bin": [
+                "masume.exe"
+            ],
+            "hash": "392aa1c15900730a909c198a6e95c57bb980bb67bf086ce66e6492f2c704f0ee"
+        },
+        "arm64": {
+            "url": "https://github.com/masumedb/masume/releases/download/v0.0.10/masume_0.0.10_windows_arm64.zip",
+            "bin": [
+                "masume.exe"
+            ],
+            "hash": "58069f39a954a8c33f4c794b3788e3c3804bd17dda804404cb04109e58d04ce5"
+        }
+    },
+    "homepage": "https://github.com/masumedb/masume",
+    "license": "Apache-2.0",
+    "description": "A database client for the terminal"
+}
