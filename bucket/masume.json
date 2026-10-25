@@ -1,19 +1,19 @@
 {
-    "version": "0.0.16",
+    "version": "0.0.17",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/masumedb/masume/releases/download/v0.0.16/masume_0.0.16_windows_amd64.zip",
+            "url": "https://github.com/masumedb/masume/releases/download/v0.0.17/masume_0.0.17_windows_amd64.zip",
             "bin": [
                 "masume.exe"
             ],
-            "hash": "ac115fa1018299c0a31644f0637a4956e71f7ae981ed4e1a68166ca2d7ed23ab"
+            "hash": "9b7d21b5855753460cc4e4183ab056956ef61662bc0e1cf72383de1755a8637d"
         },
         "arm64": {
-            "url": "https://github.com/masumedb/masume/releases/download/v0.0.16/masume_0.0.16_windows_arm64.zip",
+            "url": "https://github.com/masumedb/masume/releases/download/v0.0.17/masume_0.0.17_windows_arm64.zip",
             "bin": [
                 "masume.exe"
             ],
-            "hash": "d6f44d7bf11f6ed991c4b400f0163fbd453347ddfe7cdf01bfd7fd79814a0e36"
+            "hash": "b34154c2c9a4a81261cff9dcecbf977b9e40d212adfa53f9f2848529e57f8945"
         }
     },
     "homepage": "https://github.com/masumedb/masume",
